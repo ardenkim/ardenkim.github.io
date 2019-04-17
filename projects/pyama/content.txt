@@ -1,0 +1,6 @@
+Yet Another Messaging App "YAMA"
+Android App Development
+Java
+This is a messaging app—that is, an application for sending and receiving SMS/MMS messages<br />To try and separate the app from all the others, this includes the secret sauce of automated replies, allowing the user to specify a message that is automatically sent back on receipt of a message.
+NULL
+https://github.com/ardenkim/yama

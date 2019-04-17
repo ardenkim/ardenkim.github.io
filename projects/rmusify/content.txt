@@ -1,0 +1,6 @@
+Musify
+Client Side Web Programming
+JavaScript, React, HTML, CSS
+This is a mimic web site of Spotify, parsing Spotify API. With jQuery library, React, and boostrap, and a public Web API, users can interactively search music from this website.<br />This website also allows users to listen to preview music by clicking the results, search for albums and playlists related to the search keyword, and provide links to Spotify for users to enjoy music.
+https://info343-au16.github.io/challenges-ardenkim/data-browser/build/
+https://github.com/info343-au16/challenges-ardenkim/tree/master/data-browser

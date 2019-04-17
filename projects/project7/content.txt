@@ -1,0 +1,6 @@
+To-do List
+Web Programming
+JavaScript, PHP, HTML, CSS
+This project is about user login sessions and cookies, and building a large site with many connected pages. This site is a parody of the real to-do list website &quot;Remember the Milk&quot;.<br /> This site requires the user to log in or create an account first. After loggining in, the user can manipulate his/her to-do list by adding or deleting items. And any changes made to the list are saved to the web server. <br />Try the website by logging in with username: user password: 1password!
+start.php
+NULL

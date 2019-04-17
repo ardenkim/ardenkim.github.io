@@ -1,0 +1,6 @@
+Speed Reader
+Web Programming
+JavaScript, HTML, CSS
+This project used JavaScript and HTML. This project is about JavaScript and its interaction with HTML, user interfaces. <br /> This program helps users to read faster, using a method called Rapid Serial Visual Presentation (RSVP).
+speedreader.html
+NULL

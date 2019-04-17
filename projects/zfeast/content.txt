@@ -1,0 +1,6 @@
+Feast
+Android App Development
+Java
+<i>Feast</i> is an Android mobile application that allows users to decide on places to eat with groups of friends. Any young adult or older will benefit most from the application. It creates a poll between the host and the invitees to decide on types of food or custom choices. Only one person needs to have the application installed to create a <i>Feast</i> - everyone the host invites will receive SMS messages sharing information about the planned event and presenting a way (a SMS response) to vote on their preferred food type. <br />This application assists us in making this decision. It is different than other applications that exist because it helps users to decide on a place with a very user-friendly interface, rather than picking a location or having undedicated polls.
+NULL
+https://github.com/zwbrant/feast-info498b

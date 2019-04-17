@@ -1,0 +1,6 @@
+Game: Fifteen Puzzle
+Web Programming: Game
+JavaScript, HTML, CSS
+This project is about JavaScript's Document Object Model (DOM) and events. <br /> I created a fifteen puzzle game consisting of customizable grids of numbered squares with four different pictures.
+fifteen.html
+NULL

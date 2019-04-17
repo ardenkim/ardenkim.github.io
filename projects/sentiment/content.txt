@@ -1,0 +1,6 @@
+Twitter Sentiment
+Client Side Web Programming
+JavaScript, JSON, HTML, CSS
+This is a web page that performs simple sentiment analysis of Twitter data, determining the attitude of tweets(how "positive", "negative", "joyful", etc) made by a particular twitter user.<br />It takes real data directly from a Twitter user's timeline and analyze tweets.
+https://info343-au16.github.io/challenges-ardenkim/sentiment/index.html
+https://github.com/info343-au16/challenges-ardenkim/tree/master/sentiment

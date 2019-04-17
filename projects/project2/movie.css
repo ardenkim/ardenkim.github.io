@@ -1,0 +1,135 @@
+/*
+	Minkyeong Kim
+	CSE 154 AG
+	Assignment 2: provides styling for a TMNT movie review webpage;
+*/
+
+body {
+	background-image: url("https://webster.cs.washington.edu/images/moviebg.png");
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 0px;
+}
+
+body, #page {
+	margin: 0px;
+}
+
+#banner, h1, #page {
+	text-align: center;
+}
+
+h1 {
+	font-size: 24pt;
+	text-shadow: 3px 3px #999999;
+}
+
+h1, .quote {
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+#banner {
+	background-image: url("https://webster.cs.washington.edu/images/rancidbannerbg.png");
+	height: 50px;
+}
+
+#overall {
+	background-color: #EEEEEE; 
+	box-shadow: 5px 5px 5px gray;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+#overall, .quote, .reviewer {
+	overflow: hidden
+}
+
+#overall, .quote {
+	border-radius: 20px;
+}
+
+#right {
+	width: 250px;
+}
+
+#info {
+	padding-left: 10pt;
+	padding-right: 10pt;
+}
+
+dt, #rating {
+	font-weight: bold;
+}
+
+dd {
+	margin-bottom: 10pt;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#page, #right {
+	background-color: #A2B964;
+}
+
+#left {
+	width: 550px;
+}
+
+#rating {
+	background-image: url("https://webster.cs.washington.edu/images/rottenlargebg.png");
+	color: red;
+	font-size: 48pt;
+	height: 83px;
+}
+
+#rating img {
+	vertical-align: bottom;
+}
+
+.column {
+	margin-left: 2%;
+	width: 47%;
+}
+
+.column img {
+	margin-right: 5px;
+}
+
+.column, .column img {
+	float: left;
+}
+
+.quote {
+	background-color: #FFFFFF;
+	border: 2px solid #CCCCCC;
+	padding: 8px;
+}
+
+.reviewer {
+	margin-bottom: 20pt;
+}
+
+.reviewer span {
+	font-style: italic;
+}
+
+#page {
+	clear: right;
+	padding: 5px;
+}
+
+#right, #validator {
+	float: right;
+}
+
+#validator img {
+	opacity: 0.5;
+}
+
+#validator img:hover {
+	opacity: 1.0;
+}

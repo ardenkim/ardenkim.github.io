@@ -1,0 +1,6 @@
+Sun Spotter
+Android App Development
+Java
+It's spring time! That means a rare treat for the Pacific Northwest: sunshine! This is a small mobile app that will let users find out if and when there will be any sun nearby so that they can enjoy its limited appearance.
+NULL
+https://github.com/ardenkim/sunspotter

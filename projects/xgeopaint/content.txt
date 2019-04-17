@@ -1,0 +1,6 @@
+GeoPaint
+Android App Development
+Java
+This is an app that uses the device's physical location as input for a simple drawing program. By caring the device around a (large) space, the user will be able to draw pictures based on their movements, similar to the links above or the work by this artist. <br />In effect, users will carry around a virtual "pen", producing a drawing visible on a map. Users will also be able to share these drawings, so that others can see their art.
+NULL
+https://github.com/ardenkim/geo-paint

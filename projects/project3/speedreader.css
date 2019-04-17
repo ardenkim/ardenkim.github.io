@@ -1,0 +1,71 @@
+/*
+	Minkyeong Kim
+	CSE 154 AG
+	Assignment 3: provides styling for a speedreader webpage
+*/
+
+body {
+	background-color: #EAF6F6;
+	font-family: Garamond, serif;
+	font-size: 12pt;
+	text-align: center;
+}
+
+#animation {
+	border: 2px solid #8EBEBE;
+	border-radius: 5px;
+	font-family: monospace;
+	font-size: 36pt;
+	height: 100px;
+	line-height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+#animation, .labels {
+	font-weight: bold;
+}
+
+#animation, textarea {
+	background-color: #FFFFFF;
+}
+
+fieldset {
+	border: none;
+	display: inline-block;
+}
+
+.controls {
+	vertical-align: top;
+}
+
+.labels {
+	border-bottom: 1px solid #8EBEBE;
+	padding: 2px;
+	text-align: left;
+	width: 100%;
+}
+
+button {
+	background-color: white;
+}
+
+button, img {
+	width: 70px;
+}
+
+button:disabled {
+	background-color: lightgray;
+}
+
+button, textarea {
+	border: 1px solid gray;
+}
+
+p {
+	bottom: 0px;
+	left: 5px;
+	margin: 0px;
+	position: fixed;
+}

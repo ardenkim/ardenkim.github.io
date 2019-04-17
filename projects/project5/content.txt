@@ -1,0 +1,6 @@
+Weather
+Web Programming: AJAX
+JavaScript, API, XML, JSON, HTML, CSS
+This project used Ajax to fetch data in text, XML, and JSON formats. <br /> This is a real time weather website, just like Google &quot;weather&quot;. Users can search a city and see the current temperature, hourly temperature, and forcasted weather for the next 7 days.
+weather.html
+NULL

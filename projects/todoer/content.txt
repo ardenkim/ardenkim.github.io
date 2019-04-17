@@ -1,0 +1,6 @@
+Todoer
+Android App Development
+Java
+A common use of mobile applications (and really, computer programs in general) is to track and manage some specific kind of data. Such apps are often structured as CRUD systems that let you create, read, update, and delete data items.<br />This is a mobile app implementing a simple Android "To Do List" app with which the user can create and view tasks they need to complete. 
+NULL
+https://github.com/ardenkim/todoer

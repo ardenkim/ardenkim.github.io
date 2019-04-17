@@ -1,0 +1,6 @@
+Best Reads
+Web Programming
+JavaScript, PHP, HTML, CSS
+This project is about making a web service and using Ajax to retrieve data. I wrote a PHP service that generates a variety of data about different books. I also wrote JavaScript code to make requests to this service and inject the responses into the page.
+bestreads.html
+NULL

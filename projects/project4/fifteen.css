@@ -1,0 +1,62 @@
+/*
+	Minkyeong Kim
+	CSE 154 AG
+	Assignment 4: provides styling for a Fifteen Puzzle webpage
+*/
+
+body {
+	font-size: 14pt;
+	text-align: center;
+}
+
+body, button, select {
+	font-family: cursive;
+}
+
+#congrat {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#congrat, .hover {
+	color: red;
+}
+
+#puzzlearea {
+	width: 400px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.tile {
+	border: 5px solid black;
+	width: 90px;
+	height: 90px;
+	line-height: 90px;
+	background-image: url("background.jpg");
+	position: absolute;
+}
+
+.monsters {
+	background-image: url("monsters.jpg");
+}
+
+.mickey {
+	background-image: url("mickey.jpg");
+}
+
+.pikachu {
+	background-image: url("pikachu.jpg");
+}
+
+.tile > p {
+	font-size: 40px;
+	margin: 0;
+}
+
+.hover {
+	border: 5px solid red;
+	cursor: pointer;
+}

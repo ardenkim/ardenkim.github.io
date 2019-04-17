@@ -1,0 +1,6 @@
+Try to add something to the list!
+You can add anything you WANT
+You can also add some HTML TAGS
+hello <br /> world
+<strong>nothing happens</strong>
+A perfect to-do list website!
