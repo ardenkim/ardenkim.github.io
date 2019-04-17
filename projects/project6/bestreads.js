@@ -24,10 +24,10 @@
 		var request = new XMLHttpRequest();
 		request.onload = afterResponse;
 		if (title) {
-			request.open("GET", "http://students.washington.edu/kmk3170/portfolio/project6/" +
+			request.open("GET", "http://ardenkim.github.io/projects/project6/" +
 						 "bestreads.php?mode=" + mode + "&title=" + title, true);
 		} else {
-			request.open("GET", "http://students.washington.edu/kmk3170/portfolio/project6/" +
+			request.open("GET", "http://ardenkim.github.io/projects/project6/" +
 						 "bestreads.php?mode=" + mode, true);
 		}
 		request.send();

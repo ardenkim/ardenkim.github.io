@@ -108,11 +108,10 @@
       <div class="social-footer">
         <a href="https://www.linkedin.com/in/ardenkim/"><i class="fa fa-linkedin" aria-hidden="true"></i>/ardenkim</a>
         <a href="https://github.com/ardenkim"><i class="fa fa-github" aria-hidden="true"></i>/ardenkim</a>
-        <a href="mailto:arden.ischool@gmail.com"><i class="fa fa-envelope"> arden.ischool@gmail.com</i></a>
-        <a><i class="fa fa-mobile"></i> 206)471-4712</a>
+        <a href="mailto:ardenmkim@gmail.com"><i class="fa fa-envelope"> ardenmkim@gmail.com</i></a>
+        <a><i class="fa fa-mobile"></i> (206) 466 8069</a>
       </div>           
     </div>
-
 
   </footer>
 
